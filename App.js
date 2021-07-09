@@ -32,7 +32,7 @@ export default function App() {
       let { status } = await Location.requestForegroundPermissionsAsync()
 
       if (status !== 'granted') {
-        setErrorMessage('Access to location is needed to run the app')
+        setErrorMessage('ugriff auf Location ist erforderlich, um die App zu starten')
         return
       }
       let location = await Location.getCurrentPositionAsync({ enableHighAccuracy: true })
@@ -71,8 +71,6 @@ export default function App() {
       <View style={styles.container}>
         <StatusBar translucent={true} backgroundColor={'transparent'} />
         <Header
-          //backgroundColor="#e96e50"
-          //leftComponent={{ icon: 'menu', color: '#fff' }}
           centerComponent={{ text: 'WeatherCast', style: { color: '#fff', fontSize: 22, } }}
           containerStyle={{
             height: 75,

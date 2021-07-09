@@ -22,11 +22,15 @@
     },
     "android": {
       "package": "com.sven.dorner",
-      "permissions": ["LOCATION"],
+      "permissions": [
+        "LOCATION"
+      ],
       "icon": "./assets/weather-cast-icon.png"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Die moderne Wetter-App für deinen Alltag. Konzentriere dich auf die wesentlichen\nInformationen mit dem simplen und modernen Design.\n100% Werbefrei und kostenlos!",
+    "githubUrl": "https://github.com/lil-S/WeatherCast"
   }
 }

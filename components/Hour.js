@@ -14,7 +14,7 @@ const App = () => {
 
     const { status } = await Location.requestForegroundPermissionsAsync();
     if (status !== 'granted') {
-      Alert.alert('Permission to access location was denied');
+      Alert.alert('Permission für die Location wurde abgelehnt');
     }
 
     let location = await Location.getCurrentPositionAsync({ enableHighAccuracy: true });
@@ -23,7 +23,7 @@ const App = () => {
     const data = await response.json();
 
     if (!response.ok) {
-      Alert.alert(`Error retrieving weather data: ${data.message}`);
+      Alert.alert(`Fehler bei dem Fetchen der Daten: ${data.message}`);
     } else {
       setForecast(data);
     }
