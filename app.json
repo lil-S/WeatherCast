@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "weather-cast",
+    "name": "WeatherCast",
     "slug": "weather-cast",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weather-cast-icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
