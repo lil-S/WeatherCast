@@ -1,0 +1,327 @@
+/* screen - web-1920-2 */
+
+.web-1920-2 {
+  background-color: var(--athens-gray);
+  height: 1463px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-2 .gruppe-3-07RRWM {
+  background-color: transparent;
+  height: 837px;
+  left: 172px;
+  position: absolute;
+  top: 571px;
+  width: 407px;
+}
+
+.web-1920-2 .shadow-uQPjxS {
+  background-color: var(--athens-gray);
+  border-radius: 39px;
+  box-shadow: 15px 15px 25px #97a7c380;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .light-uQPjxS {
+  background-color: var(--athens-gray);
+  border-radius: 39px;
+  box-shadow: -15px -15px 25px #ffffff;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .gruppe-7-07RRWM {
+  background-color: transparent;
+  height: 303px;
+  left: 172px;
+  position: absolute;
+  top: 200px;
+  width: 1557px;
+}
+
+.web-1920-2 .shadow-vxiaRz {
+  background-color: var(--athens-gray);
+  border-radius: 39px;
+  box-shadow: 15px 15px 25px #97a7c380;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .light-vxiaRz {
+  background-color: var(--athens-gray);
+  border-radius: 39px;
+  box-shadow: -15px -15px 25px #ffffff;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .power-point-07RRWM {
+  background-color: transparent;
+  height: 48px;
+  left: 262px;
+  object-fit: cover;
+  position: absolute;
+  top: 240px;
+  width: 367px;
+}
+
+.web-1920-2 .gruppe-9-07RRWM {
+  background-color: transparent;
+  height: 54px;
+  left: 1269px;
+  pointer-events: auto;
+  position: absolute;
+  top: 428px;
+  transition: all 0.2s ease;
+  width: 436px;
+}
+
+.web-1920-2 .gruppe-9-07RRWM:hover {
+  transform: scale(1.1);
+}
+
+.web-1920-2 .gruppe-8-uyM8cQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .buton-dark-x9FPcx {
+  background-color: var(--athens-gray);
+  border-radius: 19px;
+  box-shadow: 6px 6px 15px #97a7c380;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .buton-light-x9FPcx {
+  background-color: var(--athens-gray);
+  border-radius: 19px;
+  box-shadow: -6px -6px 15px #ffffff;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .buton-x9FPcx {
+  background-color: var(--athens-gray);
+  border-radius: 19px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .buton-sSu7Sy {
+  background: linear-gradient(90deg, #8ec5fc 0%, #e0c3fc 100%);
+  background-color: transparent;
+  border-radius: 15px;
+  height: calc(100.00% - 6px);
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 7px);
+}
+
+.web-1920-2 .install-uyM8cQ {
+  background-color: transparent;
+  bottom: calc(27.27% - 9px);
+  color: #ffffff;
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 32px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: calc(49.60% - 29px);
+  text-align: left;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.web-1920-2 .zli-logo-07RRWM {
+  background-color: transparent;
+  height: 85px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 45px;
+  width: 274px;
+}
+
+.web-1920-2 .die-moderne-wet-i-und-kostenlos-07RRWM {
+  background-color: transparent;
+  color: #aaaaaa;
+  font-family: var(--font-family-segoeui-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 261px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 364px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .icon-awesome-star-07RRWM {
+  background-color: transparent;
+  height: 26px;
+  left: 1269px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 27px;
+}
+
+.web-1920-2 .icon-awesome-star-keAnDz {
+  background-color: transparent;
+  height: 26px;
+  left: 1359px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 27px;
+}
+
+.web-1920-2 .icon-awesome-star-A1emAz {
+  background-color: transparent;
+  height: 26px;
+  left: 1404px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 27px;
+}
+
+.web-1920-2 .icon-awesome-star-0jfHor {
+  background-color: transparent;
+  height: 26px;
+  left: 1314px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 27px;
+}
+
+.web-1920-2 .von-sven-dorner-07RRWM {
+  background-color: transparent;
+  color: #aaaaaa;
+  font-family: var(--font-family-segoeui-semibold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 261px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 306px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .icon-awesome-star-half-alt-07RRWM {
+  background-color: transparent;
+  height: 26px;
+  left: 1449px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 27px;
+}
+
+.web-1920-2 .weather-cast-icon-07RRWM {
+  background-color: transparent;
+  border-radius: 18px;
+  height: 117px;
+  left: 1269px;
+  object-fit: cover;
+  position: absolute;
+  top: 221px;
+  width: 117px;
+}
+
+.web-1920-2 .screenshot2021-143620-expo-go-07RRWM {
+  background-color: transparent;
+  border-radius: 25px;
+  height: 794px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 593px;
+  width: 357px;
+}
+
+.web-1920-2 .gruppe-17-07RRWM {
+  background-color: transparent;
+  height: 837px;
+  left: 725px;
+  position: absolute;
+  top: 572px;
+  width: 407px;
+}
+
+.web-1920-2 .shadow-MAlUi0 {
+  background-color: var(--athens-gray);
+  border-radius: 39px;
+  box-shadow: 15px 15px 25px #97a7c380;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .light-MAlUi0 {
+  background-color: var(--athens-gray);
+  border-radius: 39px;
+  box-shadow: -15px -15px 25px #ffffff;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-2 .screenshot2021-143620-expo-go-keAnDz {
+  background-color: transparent;
+  border-radius: 25px;
+  height: 794px;
+  left: 750px;
+  object-fit: cover;
+  position: absolute;
+  top: 594px;
+  width: 357px;
+}

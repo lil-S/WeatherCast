@@ -1,0 +1,13 @@
+:root { 
+  --athens-gray: #ecf0f3;
+
+ 
+  --font-size-m: 24px;
+  --font-size-s: 22px;
+  --font-size-xs: 18px;
+
+ 
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+  --font-family-segoeui-semibold: "SegoeUI-Semibold", Helvetica;
+
+}
