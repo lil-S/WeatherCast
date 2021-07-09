@@ -1,5 +1,6 @@
 {
   "expo": {
+    "sdkVersion": "42.0.0",
     "name": "WeatherCast",
     "slug": "weather-cast",
     "version": "1.0.0",
@@ -20,7 +21,6 @@
       "supportsTablet": true
     },
     "android": {
-      "sdkVersion": "42.0.0",
       "package": "com.sven.dorner",
       "permissions": ["LOCATION"],
       "icon": "./assets/weather-cast-icon.png"
