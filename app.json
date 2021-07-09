@@ -21,8 +21,7 @@
     },
     "android": {
       "package": "com.sven.dorner",
-      "version-code": 1,
-      "permissions": "LOCATION",
+      "permissions": ["LOCATION"],
       "icon": "./assets/weather-cast-icon.png"
     },
     "web": {
