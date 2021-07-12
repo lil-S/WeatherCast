@@ -22,9 +22,7 @@
     },
     "android": {
       "package": "com.sven.dorner",
-      "permissions": [
-        "LOCATION"
-      ],
+      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION", "ACCESS_BACKGROUND_LOCATION", "VIBRATE"],
       "icon": "./assets/weather-cast-icon.png"
     },
     "web": {
